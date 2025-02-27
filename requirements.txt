@@ -1,0 +1,7 @@
+torch==2.5.0
+fair-esm
+numpy
+biopython
+tqdm
+matplotlib
+lightning
